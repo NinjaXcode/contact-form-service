@@ -38,15 +38,12 @@ Railway will automatically set up your contact form microservice.
 Your live link will be ready in just a few minutes!
 
 🔥 Why Use This?
-🚀 Launch instantly without installing anything locally
+-  🚀 Launch instantly without installing anything locally
+-  💼 Great for portfolios, contact forms, mini-apps
+-  🔒 Hosted securely with SSL
+-  🧠 Zero setup required — just click and launch
 
-💼 Great for portfolios, contact forms, mini-apps
-
-🔒 Hosted securely with SSL
-
-🧠 Zero setup required — just click and launch
-
-📄 Notes
+- 📄 Notes
 The app runs on port 5000 by default.
 
 After deployment, Railway will provide you with a public link.
