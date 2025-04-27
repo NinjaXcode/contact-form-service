@@ -58,7 +58,7 @@ Your live link will be ready in just a few minutes!
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/NinjaXcode/contact-form-service.git
+   git clone https://github.com/TechGuruServices/contact-form-service.git
    cd contact-form-service
    ```
 
