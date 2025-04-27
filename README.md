@@ -19,7 +19,7 @@ A plug-and-play Flask contact form service — Dockerized, lightweight, and read
 
 ---
 
-## 📦 How to Use via Railway (Recommended) Or If You Prefer Cloning The Reposistory (Steps Below)
+## 📦 How to Use via Railway (Recommended) or, if You Prefer, Clone the Repository (Steps Below)
 
 🚀 One-Click Deploy
 
