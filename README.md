@@ -19,11 +19,10 @@ A plug-and-play Flask contact form service — Dockerized, lightweight, and read
 
 ---
 
-## 📦 How to Use
+## 📦 How to Use 
+🚀 One-Click Deploy
 [![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/pDM1dq?referralCode=IZm0WS)
 ```bash
-
-🚀 One-Click Deploy
 
 Instantly deploy your own live version with one click!
 No coding skills required — perfect for quick launches.
