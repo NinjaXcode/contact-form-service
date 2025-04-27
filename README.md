@@ -25,8 +25,6 @@ A plug-and-play Flask contact form service — Dockerized, lightweight, and read
 
 [![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/pDM1dq?referralCode=IZm0WS)
 
-```bash
-
 Instantly deploy your own live version with one click!
 No coding skills required — perfect for quick launches.
 
@@ -54,8 +52,6 @@ The app runs on port 5000 by default.
 After deployment, Railway will provide you with a public link.
 
 You can easily connect a custom domain if you want!
-
-```
 
 ## 📬 Contact & Support
 BuyMeACoffee: https://buymeacoffee.com/techguruservice  
