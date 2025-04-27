@@ -43,7 +43,7 @@ Your live link will be ready in just a few minutes!
 -  🔒 Hosted securely with SSL
 -  🧠 Zero setup required — just click and launch
 
-- 📄 Notes
+ 📄 Notes
 The app runs on port 5000 by default.
 
 After deployment, Railway will provide you with a public link.
