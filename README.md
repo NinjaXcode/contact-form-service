@@ -20,9 +20,39 @@ A plug-and-play Flask contact form service — Dockerized, lightweight, and read
 ---
 
 ## 📦 How to Use
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/pDM1dq?referralCode=IZm0WS)
 ```bash
-docker build -t contact-form .
-docker run -p 5000:5000 contact-form
+
+🚀 One-Click Deploy
+
+Instantly deploy your own live version with one click!
+No coding skills required — perfect for quick launches.
+
+🔧 How to Deploy
+Click the "Deploy on Railway" button above.
+
+Create a free Railway account (takes 30 seconds).
+
+Railway will automatically set up your contact form microservice.
+
+Your live link will be ready in just a few minutes!
+
+🔥 Why Use This?
+🚀 Launch instantly without installing anything locally
+
+💼 Great for portfolios, contact forms, mini-apps
+
+🔒 Hosted securely with SSL
+
+🧠 Zero setup required — just click and launch
+
+📄 Notes
+The app runs on port 5000 by default.
+
+After deployment, Railway will provide you with a public link.
+
+You can easily connect a custom domain if you want!
+
 ```
 
 ## 📬 Contact & Support
