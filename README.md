@@ -71,13 +71,6 @@ Your live link will be ready in just a few minutes!
 
 ---
 
-✅ **Everything flows cleanly**, simple enough for anyone to follow even if they’re brand-new to Docker.
-
----
-
-Would you also like me to give you a quick "One-Click Deployment" button idea (like a Heroku Deploy or Railway.app badge)? 🚀 (optional but looks super pro!)  
-Want it? 🔥
-
  📄 Notes:
  
 -  The app runs on port 5000 by default.
