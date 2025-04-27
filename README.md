@@ -19,7 +19,7 @@ A plug-and-play Flask contact form service — Dockerized, lightweight, and read
 
 ---
 
-## 📦 How to Use 
+## 📦 How to Use via Railway (Recommended) Or If You Prefer Cloning The Reposistory (Steps Below)
 
 🚀 One-Click Deploy
 
@@ -29,6 +29,7 @@ Instantly deploy your own live version with one click!
 No coding skills required — perfect for quick launches.
 
 🔧 How to Deploy
+
 Click the "Deploy on Railway" button above.
 
 Create a free Railway account (takes 30 seconds).
@@ -42,6 +43,40 @@ Your live link will be ready in just a few minutes!
 -  💼 Great for portfolios, contact forms, mini-apps
 -  🔒 Hosted securely with SSL
 -  🧠 Zero setup required — just click and launch
+
+
+---
+
+## 🚀 How to Use (Clone The Repository)
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/NinjaXcode/contact-form-service.git
+   cd contact-form-service
+   ```
+
+2. **Build the Docker image**  
+   ```bash
+   docker build -t contact-form .
+   ```
+
+3. **Run the Docker container**  
+   ```bash
+   docker run -p 5000:5000 contact-form
+   ```
+
+4. **Access the app**  
+   Open your browser and visit:  
+   [http://localhost:5000](http://localhost:5000)
+
+---
+
+✅ **Everything flows cleanly**, simple enough for anyone to follow even if they’re brand-new to Docker.
+
+---
+
+Would you also like me to give you a quick "One-Click Deployment" button idea (like a Heroku Deploy or Railway.app badge)? 🚀 (optional but looks super pro!)  
+Want it? 🔥
 
  📄 Notes:
  
