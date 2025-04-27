@@ -1,4 +1,9 @@
 # TechGuru Contact Form Microservice 🚀
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+Plug-and-play microservice for contact forms powered by Flask and Docker. Ready to deploy in minutes!
+
 A plug-and-play Flask contact form service — Dockerized, lightweight, and ready to deploy in seconds.
 
 ## 🛠️ Features
