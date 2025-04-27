@@ -44,6 +44,13 @@ Your live link will be ready in just a few minutes!
 -  🔒 Hosted securely with SSL
 -  🧠 Zero setup required — just click and launch
 
+---
+ 
+ 📄 Notes:
+ 
+-  The app runs on port 5000 by default.
+-  After deployment, Railway will provide you with a public link.
+-  You can easily connect a custom domain if you want!
 
 ---
 
@@ -68,14 +75,6 @@ Your live link will be ready in just a few minutes!
 4. **Access the app**  
    Open your browser and visit:  
    [http://localhost:5000](http://localhost:5000)
-
----
-
- 📄 Notes:
- 
--  The app runs on port 5000 by default.
--  After deployment, Railway will provide you with a public link.
--  You can easily connect a custom domain if you want!
   
 ---
 
