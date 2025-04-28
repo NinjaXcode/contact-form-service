@@ -27,10 +27,18 @@ A plug-and-play Flask contact form service — Dockerized, lightweight, and read
 
 Instantly deploy your own live version with one click!
 No coding skills required — perfect for quick launches.
-Feel free to use my referral link + code ⬇️
 
--   Link: https://railway.com?referralCode=TechGuru2025
--   Referral code: TechGuru2025
+
+## Support My Work
+
+If you find my project helpful, you can support me by using my referral link and code:
+
+- **Link:** [https://railway.app?referralCode=TechGuru2025](https://railway.app?referralCode=TechGuru2025)
+- **Referral Code:** `TechGuru2025`
+
+Thanks for your support!
+
+---
 
 🔧 How to Deploy
 
