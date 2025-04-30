@@ -95,3 +95,6 @@ BuyMeACoffee: https://buymeacoffee.com/techguruservice
 Email: TechGuru4You@proton.me  
 Reddit DM: u/Professional-Gene875  
 WhatsApp: +1 (786) 636-9964
+
+[![TechGuru](https://raw.githubusercontent.com/TechGuruServices/contact-form-service/main/assets/techgurulogo.png)](https://techguruofficial.us)
+
