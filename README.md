@@ -19,82 +19,35 @@ A plug-and-play Flask contact form service — Dockerized, lightweight, and read
 
 ---
 
-## 📦 How to Use via Railway (Recommended) or, if You Prefer, Clone the Repository (Steps Below)
+## 📦 One-Click Deploy via Railway (Recommended)
 
-🚀 One-Click Deploy
+🚀 **One-Click Deploy**
 
 [![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/pDM1dq?referralCode=IZm0WS)
 
-Instantly deploy your own live version with one click!
+Instantly deploy your own live version with one click!  
 No coding skills required — perfect for quick launches.
 
+---
 
-## Support My Work
+## 🛠️ How to Deploy
 
-If you find my project helpful, you can support me by using my referral link and code:
+1. Click the "Deploy on Railway" button above.
+2. Create a free Railway account (takes 30 seconds).
+3. Railway will automatically set up your contact form microservice.
+4. Your live link will be ready in just a few minutes!
 
-- **Link:** [https://railway.app?referralCode=TechGuru2025](https://railway.app?referralCode=TechGuru2025)
-- **Referral Code:** `TechGuru2025`
-
-Thanks for your support!
+**🔥 Why Use This?**
+- 🚀 Launch instantly without installing anything locally
+- 💼 Great for portfolios, contact forms, mini-apps
+- 🔒 Hosted securely with SSL
+- 🧠 Zero setup required — just click and launch
 
 ---
 
-🔧 How to Deploy
-
-Click the "Deploy on Railway" button above.
-
-Create a free Railway account (takes 30 seconds).
-
-Railway will automatically set up your contact form microservice.
-
-Your live link will be ready in just a few minutes!
-
-🔥 Why Use This?
--  🚀 Launch instantly without installing anything locally
--  💼 Great for portfolios, contact forms, mini-apps
--  🔒 Hosted securely with SSL
--  🧠 Zero setup required — just click and launch
-
----
- 
- 📄 Notes:
- 
--  The app runs on port 5000 by default.
--  After deployment, Railway will provide you with a public link.
--  You can easily connect a custom domain if you want!
-
----
-
-## 🚀 How to Use (Clone The Repository)
+## 💻 How to Use (Clone This Repo)
 
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/TechGuruServices/contact-form-service.git
    cd contact-form-service
-   ```
-
-2. **Build the Docker image**  
-   ```bash
-   docker build -t contact-form .
-   ```
-
-3. **Run the Docker container**  
-   ```bash
-   docker run -p 5000:5000 contact-form
-   ```
-
-4. **Access the app**  
-   Open your browser and visit:  
-   [http://localhost:5000](http://localhost:5000)
-  
----
-
-## 📬 Contact & Support
-BuyMeACoffee: https://buymeacoffee.com/techguruservice  
-Email: TechGuru4You@proton.me  
-Reddit DM: u/Professional-Gene875  
-WhatsApp: +1 (786) 636-9964
-
-[![TechGuru](https://raw.githubusercontent.com/TechGuruServices/contact-form-service/main/assets/techgurulogo.png)](https://techguruofficial.us)
-
