@@ -88,5 +88,5 @@ Thanks for your support!
 - WhatsApp: +1 (786) 636-9964
 
 <a href="https://techguruofficial.us" target="_blank">
-  <img src="https://raw.githubusercontent.com/TechGuruServices/contact-form-service/main/assets/techgurulogo.png" alt="TechGuru" width="200"/>
+  <img src="https://raw.githubusercontent.com/TechGuruServices/contact-form-service/main/assets/techgurulogo.png" alt="TechGuru" width="150"/>
 </a>
